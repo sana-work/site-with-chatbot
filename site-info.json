@@ -1,0 +1,36 @@
+{
+  "siteName": "SPlus Labs",
+  "tagline": "Smart tools for busy teams.",
+  "sections": [
+    {
+      "id": "home",
+      "title": "Home",
+      "summary": "Overview of SPlus Labs and our mission."
+    },
+    {
+      "id": "features",
+      "title": "Features",
+      "summary": "AI-powered chat, analytics, and automations."
+    },
+    {
+      "id": "pricing",
+      "title": "Pricing",
+      "summary": "Free, Pro, and Enterprise plans."
+    },
+    {
+      "id": "contact",
+      "title": "Contact",
+      "summary": "Email hello@spluslabs.dev"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do you have a free plan?",
+      "a": "Yes, our Free plan includes 500 messages/month."
+    },
+    {
+      "q": "How can I contact support?",
+      "a": "Email support@spluslabs.dev or use the contact form."
+    }
+  ]
+}
